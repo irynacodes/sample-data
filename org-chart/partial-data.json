@@ -1,5 +1,5 @@
 [
     { "id": 3, "parentId": "", "name": "node3" },
     { "id": 7, "parentId": 3, "name": "node7" },
-    { "id": 8, "parentId": 3, "name": "node8" },
+    { "id": 8, "parentId": 3, "name": "node8" }
  ]
