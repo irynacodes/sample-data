@@ -6,5 +6,5 @@
     { "id": 5, "parentId": 2, "name": "node5" },
     { "id": 6, "parentId": 2, "name": "node6" },
     { "id": 7, "parentId": 3, "name": "node7" },
-    { "id": 8, "parentId": 3, "name": "node8" },
+    { "id": 8, "parentId": 3, "name": "node8" }
  ]
