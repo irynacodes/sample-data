@@ -1,0 +1,10 @@
+[
+    { "id": 1, "parentId": "", "name": "node1" },
+    { "id": 2, "parentId": 1, "name": "node2" },
+    { "id": 3, "parentId": 1, "name": "node3" },
+    { "id": 4, "parentId": 2, "name": "node4" },
+    { "id": 5, "parentId": 2, "name": "node5" },
+    { "id": 6, "parentId": 2, "name": "node6" },
+    { "id": 7, "parentId": 3, "name": "node7" },
+    { "id": 8, "parentId": 3, "name": "node8" },
+ ]
